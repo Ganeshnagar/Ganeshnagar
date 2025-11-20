@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shambhu_nale
+- 👋 Hi, I
 - 👀 I’m interested in web devloping
 - 🌱 I’m currently learning ... fullstack devlopming
 - 💞️ I’m looking to collaborate on ...
